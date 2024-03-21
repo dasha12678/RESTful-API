@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94ad89fb-1dcd-47ac-92b0-1999f962c068" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postman/collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postman/environment.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,7 @@
       <updated>1709994409173</updated>
       <workItem from="1709994411396" duration="2045000" />
       <workItem from="1711027443925" duration="1020000" />
-      <workItem from="1711031309372" duration="3807000" />
+      <workItem from="1711031309372" duration="3080000" />
     </task>
     <servers />
   </component>

@@ -1,8 +1,5 @@
  FROM python:3.8-alpine
 
- # Install dependencies
-RUN pip install connexion
-
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
 
