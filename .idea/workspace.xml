@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94ad89fb-1dcd-47ac-92b0-1999f962c068" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/swagger_server/service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_server/service/student_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postman/collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postman/environment.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swagger_server/controllers/default_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_server/controllers/default_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <updated>1709994409173</updated>
       <workItem from="1709994411396" duration="2045000" />
       <workItem from="1711027443925" duration="1020000" />
-      <workItem from="1711031309372" duration="738000" />
+      <workItem from="1711031309372" duration="3080000" />
     </task>
     <servers />
   </component>
@@ -89,6 +89,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_flask_server_generated$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1711031882022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swagger_server" />
+    <SUITE FILE_PATH="coverage/python_flask_server_generated$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1711032052625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swagger_server" />
   </component>
 </project>
