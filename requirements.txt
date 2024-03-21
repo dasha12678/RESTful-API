@@ -1,4 +1,4 @@
-Try putting this in the requirements.txt file: connexion>=2, <3
+connexion>=2, <3
 connexion[swagger-ui]>=2, <3
 python_dateutil == 2.6.0
 setuptools >= 21.0.0
